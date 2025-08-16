@@ -8,21 +8,21 @@ Untuk layanan backend yang berjalan dengan **Fastify**, silakan kunjungi:
 
 ---
 
-## 🌐 Demo (#demo)
+## 🌐 Demo
 Kunjungi aplikasi UniHub versi web di sini:  
 [**Demo UniHub Web**](https://unihub-web-two.vercel.app/)
 
 ---
 
 ## 📚 Daftar Isi
-- [Pendahuluan](#pendahuluan)
-- [Fitur](#fitur)
-- [Demo](#demo)
-- [Struktur Proyek](#struktur-proyek)
-- [Instalasi & Deploy](#instalasi--deploy)
-- [Integrasi Backend](#integrasi-backend)
-- [Kontributor](#kontributor)
-- [Lisensi](#lisensi)
+- [Pendahuluan](#-pendahuluan)
+- [Fitur](#-fitur)
+- [Demo](#-demo)
+- [Struktur Proyek](#-struktur-proyek)
+- [Instalasi & Deploy](#-instalasi--deploy)
+- [Integrasi Backend](#-integrasi-backend)
+- [Kontributor](#-kontributor)
+- [Lisensi](#-lisensi)
 
 ---
 
