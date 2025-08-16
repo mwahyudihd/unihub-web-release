@@ -101,7 +101,7 @@ Pastikan backend sudah berjalan, lalu atur base URL API di konfigurasi (misalnya
 
 ## 👥 Kontributor
 
-* **Nama Anda** – Frontend Developer
+* **[MWAHYUDIHD](https://github.com/mwahyudihd)** – Frontend Developer
 
 ---
 
